@@ -1,3 +1,14 @@
+---
+
+layout: col-sidebar
+title: OWASP Nagoya
+tags: localnews-tag
+level: 4
+
+region: Asia/Pacific
+
+---
+
 # OWASP Nagoya
 
 ## **OWASP Nagoya チャプター**へようこそ。
