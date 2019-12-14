@@ -1,3 +1,11 @@
+---
+title: LocalNews
+layout:  null
+tab: true
+order: 1
+tags: localnews-tag
+---
+
 # Local News
 - 2017/06/20 OWASP Nagoya Chapter設立
 - 2017/09/02 OWASP Nagoya Local Chapter Meeting / OWASP Day
