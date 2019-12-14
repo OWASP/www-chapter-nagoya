@@ -3,9 +3,11 @@
 layout: col-sidebar
 title: OWASP Nagoya
 tags: localnews-tab
-level: 4
+level: 0
 
 region: Asia/Pacific
+
+auto-migrated: 1
 
 ---
 
