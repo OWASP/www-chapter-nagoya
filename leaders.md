@@ -8,6 +8,3 @@
 * Kengo Shimizu
 * Mayuko Komiyama
 * Hiroki Koishikura
-
-### Chapter Board Advisor
-* [Takayuki Taniguchi](mailto:takayuki.taniguchi@owasp.org)
