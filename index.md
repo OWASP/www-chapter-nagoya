@@ -1,19 +1,4 @@
----
 
-layout: col-sidebar
-title: OWASP Nagoya
-tags: example-tag
-level: 0
-
-region: Asia/Pacific
-
-auto-migrated: 1
-
----
-
-{front matter for this file}
-
-{copy for this file (index.md)}
 
 # OWASP Nagoya
 
@@ -81,7 +66,5 @@ Nightと称した勉強会を開催しています。みなさまのご参加を
 - 2019/08/19 OWASP Nagoya Chapter ミーティング 第12回 / オワスプナイト ナゴヤ
 - 2019/09/14 OWASP Nagoya Chapter ミーティング 第13回 / OWASP 758 Day
 - 2019/11/15 OWASP Nagoya Chapter ミーティング 第14回
-
-{info.md}
 
 {leaders.md}
