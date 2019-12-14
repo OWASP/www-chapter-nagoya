@@ -1,54 +1,70 @@
----
-
-layout: col-sidebar
-title: OWASP Nagoya
-tags: example-tag
-level: 0
-
-region: Asia/Pacific
-
-auto-migrated: 1
-
----
 
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+# OWASP Nagoya
 
-{front matter for this file}
+## **OWASP Nagoya チャプター**へようこそ。
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+OWASP Nagoyaはすべての方に参加できるメーリングリストに用意しております。メーリングリストの登録は
+[こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/nagoya-chapter)からお願いします。
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+OWASPの日本のチャプターは以下の通りです。：それぞれのメーリングリストなどにご参加ください。
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+- [**OWASP Japan
+Area**](https://www.owasp.org/index.php/Category:Japan)
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## About OWASP / OWASPとは
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+- The Open Web Application Security Project
+は、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
+ローカルのチャプターは独立して活動しており、[Chapter_Leader_Handbookによって案内されます](Chapter_Leader_Handbook "wikilink")。
+
+- OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP
+Nightと称した勉強会を開催しています。みなさまのご参加をお待ちしています。
+
+
+## Sponsorship/Membership
+
+- OWASPの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらは皆様のメンバーシップとドネーションによって賄われています。Chapter Meetingの会場をお貸しいただける方、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ[私たちまでご連絡](https://www.owasp.org/index.php/Nagoya#tab=Social_media__2F__E3_82_BD_E3_83_BC_E3_82_B7_E3_83_A3_E3_83_AB_E3_83_A1_E3_83_87_E3_82_A3_E3_82_A2)ください。
+(スピーカーの方は[Speaker Agreement:日本語訳をご一読下さい](Speaker_Agreement:日本語訳 "wikilink"))
+
+- 個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin Nowをクリックして下さい。
+
+- [**Local Chapter Supporter**](Membership "wikilink")
+
+
+*' 2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます！*'
 
 ## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+- 2017/06/20 OWASP Nagoya Chapter設立
+- 2017/09/02 OWASP Nagoya Local Chapter Meeting / OWASP Day
+- 2017/09/30 2017 OWASP World Tour Tokyo / Nagoya Satellite
+- 2017/10/16 OWASP Nagoya Chapter ミーティング 第２回
+- 2018/01/01 Update Board Member
+- 2018/01/22 OWASP Nagoya Chapter ミーティング 第３回 / オワスプナイト ナゴヤ
+- 2018/04/07 OWASP Nagoya Chapter ミーティング 第４回 / ハンズオン
+    - 公開資料：[WPScanハンズオン](https://www.slideshare.net/owaspnagoya/wpscanwordpress),
+    - [セキュアなWordPressの構築](https://www.slideshare.net/owaspnagoya/owasp-wordpress-wordpress),
+    - [セキュアなWordPressの構築ハンズオン手順書](https://www.slideshare.net/owaspnagoya/owasp-wordpress-wordpress-95391444)
+- 2018/06/01 OWASP Nagoya Chapter ミーティング 第５回
+- 2018/07/23 OWASP Nagoya Chapter ミーティング 第６回 / オワスプナイト ナゴヤ
+    - 公開資料：[@morihi_socさん「ハニーポットと脆弱性スキャン」](https://speakerdeck.com/morihi_soc/hanipotutotocui-ruo-xing-sukiyan),
+        [@ookura1978さん「ハニーポットで見えた！？危険なユーザーIDとパスワード」](https://speakerdeck.com/okura/owasupunaitonagoya-number-2-ltzi-liao)
+- 2018/09/15 OWASP Day 758 / 2018 (OWASP Nagoya Chapter ミーティング 第７回）
+    - 公開資料：[上野宣さん「今夜わかるWebアプリケーション脆弱性診断」](https://www.slideshare.net/uenosen/web-owasp-day-758-2018-114646917),
+        [はせがわようすけさん「脆弱性診断を通じて見えてくるWebセキュリティ」](https://speakerdeck.com/hasegawayosuke/cui-ruo-xing-zhen-duan-wotong-zitejian-etekuruwebsekiyuritei)
+- 2019/01 **株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます！**
+- 2019/02/02 MINI Hardening & OWASP 名古屋
+- 2019/02/08 OWASP Nagoya Chapter ミーティング 第9回
+    - 公開資料：[田中隆博さん「OWASP Top 10(2017)
+        Serverlessでの解釈」](https://www.slideshare.net/TakahiroTanaka/owasp-top-10-serverless),
+        [西村将利さん「OWASP Top 10 2017 AWS WAF テンプレート
+        について」](https://www.slideshare.net/owaspnagoya/owasp-top10-2017-aws-waf-20190208),
+        [宮城正伸さん「脆弱性と共生するには」](https://www.slideshare.net/owaspnagoya/20190208vulnstudy)
 
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+- 2019/04/15 OWASP Nagoya Chapter ミーティング 第10回 / オワスプナイト ナゴヤ
+- 2019/06/22 OWASP Nagoya Chapter ミーティング 第11回 / ハンズオン
+- 2019/08/19 OWASP Nagoya Chapter ミーティング 第12回 / オワスプナイト ナゴヤ
+- 2019/09/14 OWASP Nagoya Chapter ミーティング 第13回 / OWASP 758 Day
+- 2019/11/15 OWASP Nagoya Chapter ミーティング 第14回
 
 {leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
