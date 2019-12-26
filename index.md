@@ -12,7 +12,6 @@ OWASP Nagoyaはすべての方に参加できるメーリングリストに用�
 [こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/nagoya-chapter)からお願いします。
 
 OWASPの日本のチャプターは以下の通りです。それぞれのメーリングリストなどにご参加ください。
-
 * [OWASP Japan Area](https://www.owasp.org/index.php/Category:Japan)
 
 ## About OWASP / OWASPとは
@@ -33,4 +32,4 @@ Nightと称した勉強会を開催しています。みなさまのご参加を
 * 個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin Nowをクリックして下さい。
     * Local Chapter Supporter
 
-* 2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます！
+* 2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます
