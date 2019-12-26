@@ -3,7 +3,7 @@ title: Local News
 layout:  null
 tab: true
 order: 1
-tags: owaspnagoya-tag
+tags: owaspnagoya
 ---
 
 # Local News
