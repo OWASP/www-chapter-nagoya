@@ -6,9 +6,6 @@ tags: owaspnagoya-tag
 level: 0
 
 region: Asia/Pacific
-
-auto-migrated: 1
-
 ---
 
 # OWASP Nagoya
