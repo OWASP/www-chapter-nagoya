@@ -2,7 +2,7 @@
 layout: col-sidebar
 title: OWASP Nagoya
 tags: owaspnagoya
-level: 0
+level: 4
 region: Asia/Pacific
 ---
 
