@@ -1,5 +1,5 @@
 ---
-title: Local News
+title: LocalNews
 layout:  null
 tab: true
 order: 1
