@@ -6,3 +6,4 @@
 ### Board Member
 * Shigeru Inoue
 * Takayuki Taniguchi
+
