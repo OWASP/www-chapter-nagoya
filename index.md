@@ -17,7 +17,7 @@ OWASPの日本のチャプターは以下の通りです。それぞれのメー
 
 ## About OWASP / OWASPとは
 
-* The Open Web Application Security Project
+### The Open Web Application Security Project
 は、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
 ローカルのチャプターは独立して活動しており、Chapter_Leader_Handbook によって案内されます。
 
@@ -34,5 +34,3 @@ Nightと称した勉強会を開催しています。みなさまのご参加を
     * Local Chapter Supporter
 
 * 2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます！
-
-
