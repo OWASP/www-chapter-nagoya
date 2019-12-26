@@ -2,7 +2,7 @@
 title: LocalNews
 layout:  null
 tab: true
-order: 1
+order: 4
 tags: owaspnagoya
 ---
 
