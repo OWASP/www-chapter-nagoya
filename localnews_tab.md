@@ -27,7 +27,7 @@ tags: owaspnagoya
     * 公開資料：
         - [上野宣さん「今夜わかるWebアプリケーション脆弱性診断」](https://www.slideshare.net/uenosen/web-owasp-day-758-2018-114646917)
         - [はせがわようすけさん「脆弱性診断を通じて見えてくるWebセキュリティ」](https://speakerdeck.com/hasegawayosuke/cui-ruo-xing-zhen-duan-wotong-zitejian-etekuruwebsekiyuritei)
-* 2019/01 **株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます！**
+* 2019/01 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます！
 * 2019/02/02 MINI Hardening & OWASP 名古屋
 * 2019/02/08 OWASP Nagoya Chapter ミーティング 第9回
     * 公開資料：
