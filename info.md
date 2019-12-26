@@ -1,7 +1,3 @@
-<!--### Chapter Information
-* Chapter Region
--->
-
 ### Recent Event
 * 2020/01/27 OWASP NIGHT NAGOYA #5
 
@@ -11,4 +7,3 @@
 * [Twitter](https://twitter.com/owaspnagoya)
   * https://twitter.com/owaspnagoya
 * [Slack](https://join.slack.com/t/owaspnagoya/shared_invite/enQtMzM0OTkwMTM1NDQxLTA1MGMwNmY4NTY5OWNmNDdhMDVmNzgzNWJhYjYwYzEwZGNlOGVkNTliMDc2YmY4NWZhYjUyYjg1NWE0NWUwOTU)
-
