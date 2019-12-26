@@ -18,7 +18,7 @@ OWASPの日本のチャプターは以下の通りです。それぞれのメー
 ## About OWASP / OWASPとは
 
 ### The Open Web Application Security Project
-は、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
+The Open Web Application Security Projectは、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
 ローカルのチャプターは独立して活動しており、Chapter_Leader_Handbook によって案内されます。
 
 * OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP
