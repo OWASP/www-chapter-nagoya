@@ -6,5 +6,5 @@
   * https://www.facebook.com/owaspnagoya/
 * Twitter
   * https://twitter.com/owaspnagoya
-* Slack
+* [Slack](https://join.slack.com/t/owaspnagoya/shared_invite/enQtMzM0OTkwMTM1NDQxLTA1MGMwNmY4NTY5OWNmNDdhMDVmNzgzNWJhYjYwYzEwZGNlOGVkNTliMDc2YmY4NWZhYjUyYjg1NWE0NWUwOTU)
 
