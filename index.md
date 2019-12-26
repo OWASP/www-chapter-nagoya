@@ -32,7 +32,7 @@ Nightと称した勉強会を開催しています。みなさまのご参加を
 
 - OWASPの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらは皆様のメンバーシップとドネーションによって賄われています。Chapter Meetingの会場をお貸しいただける方、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ[私たちまでご連絡](https://www.owasp.org/index.php/Nagoya#tab=Social_media__2F__E3_82_BD_E3_83_BC_E3_82_B7_E3_83_A3_E3_83_AB_E3_83_A1_E3_83_87_E3_82_A3_E3_82_A2)ください。
 
-    - (スピーカーの方はSpeaker Agreement日本語訳をご一読下さい
+    - スピーカーの方はSpeaker Agreement日本語訳をご一読下さい
 
 - 個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin Nowをクリックして下さい。
     - **Local Chapter Supporter**
