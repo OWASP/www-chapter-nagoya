@@ -30,9 +30,9 @@ Nightと称した勉強会を開催しています。みなさまのご参加を
    * スピーカーの方はSpeaker Agreement日本語訳をご一読下さい
 
 * 個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin Nowをクリックして下さい。
-    * Local Chapter Supporter
+    * [Local Chapter Supporter](https://www2.owasp.org/donate)
 
-* 2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます
+* **2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます**
 
 ## Local News
 * 2017/06/20 OWASP Nagoya Chapter設立
