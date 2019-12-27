@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Nagoya
 tags: owaspnagoya
 level: 0
-region: Asia/Pacific
+region: Asia
 ---
 
 # OWASP Nagoya チャプターへようこそ
@@ -26,7 +26,6 @@ Nightと称した勉強会を開催しています。みなさまのご参加を
 ## Sponsorship/Membership
 
 * OWASPの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらは皆様のメンバーシップとドネーションによって賄われています。Chapter Meetingの会場をお貸しいただける方、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。
-
    * スピーカーの方はSpeaker Agreement日本語訳をご一読下さい
 
 * 個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin Nowをクリックして下さい。
