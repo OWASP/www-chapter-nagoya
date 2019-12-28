@@ -1,12 +1,13 @@
 ---
 title: News
 layout: null
-tab: false
+tab: true
 order: 1
 tags: owaspnagoya
 ---
 
 ## Local News
+
 ### 2017
 |日付|ニュース|
 |---|---|
@@ -15,6 +16,7 @@ tags: owaspnagoya
 |2017/09/30|2017 OWASP World Tour Tokyo / Nagoya Satellite|
 |2017/10/16|OWASP Nagoya Chapter ミーティング 第２回|
 |2018/01/01|Update Board Member|
+
 ### 2018
 |日付|ニュース|
 |---|---|
@@ -31,6 +33,7 @@ tags: owaspnagoya
 |2018/09/15|OWASP Day 758 / 2018 (OWASP Nagoya Chapter ミーティング 第７回）|
 | |公開資料：|
 | | [上野宣さん「今夜わかるWebアプリケーション脆弱性診断」](https://www.slideshare.net/uenosen/web-owasp-day-758-2018-114646917)<br>[はせがわようすけさん「脆弱性診断を通じて見えてくるWebセキュリティ」](https://speakerdeck.com/hasegawayosuke/cui-ruo-xing-zhen-duan-wotong-zitejian-etekuruwebsekiyuritei)
+
 ### 2019
 |日付|ニュース|
 |---|---|
