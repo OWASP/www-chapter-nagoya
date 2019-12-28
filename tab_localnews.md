@@ -6,6 +6,8 @@ order: 1
 tags: owaspnagoya
 ---
 
+
+---
 ## Local News
 
 ### 2017
@@ -49,3 +51,4 @@ tags: owaspnagoya
 |2019/09/14|OWASP Nagoya Chapter ミーティング 第13回 / OWASP 758 Day|
 |2019/11/15|OWASP Nagoya Chapter ミーティング 第14回|
 
+---
