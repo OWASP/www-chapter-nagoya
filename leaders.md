@@ -10,5 +10,3 @@
 * Hitomi Kato
 * Ryuichi Yamaguchi
 * Takayuki Taniguchi
-
-
