@@ -2,7 +2,7 @@
 title: News
 displaytext: Local News
 layout: null
-tab: true
+tab: false
 order: 1
 tags: nagoya
 ---
