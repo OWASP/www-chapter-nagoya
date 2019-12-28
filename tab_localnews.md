@@ -1,9 +1,9 @@
 ---
 title: News
 layout: null
-tab: false
+tab: true
 order: 1
-tags: owaspnagoya
+tags: nagoya
 ---
 
 
