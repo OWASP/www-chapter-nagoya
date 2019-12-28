@@ -1,7 +1,7 @@
 ---
 title: News
 layout: null
-tab: false
+tab: true
 order: 1
 tags: owaspnagoya
 ---
@@ -32,7 +32,7 @@ tags: owaspnagoya
 | | [@ookura1978さん「ハニーポットで見えた！？危険なユーザーIDとパスワード」](https://speakerdeck.com/okura/owasupunaitonagoya-number-2-ltzi-liao)|
 |2018/09/15|OWASP Day 758 / 2018 (OWASP Nagoya Chapter ミーティング 第７回）|
 | |公開資料：|
-| | [上野宣さん「今夜わかるWebアプリケーション脆弱性診断」](https://www.slideshare.net/uenosen/web-owasp-day-758-2018-114646917)<br>[はせがわようすけさん「脆弱性診断を通じて見えてくるWebセキュリティ」](https://speakerdeck.com/hasegawayosuke/cui-ruo-xing-zhen-duan-wotong-zitejian-etekuruwebsekiyuritei)
+| | [上野宣さん「今夜わかるWebアプリケーション脆弱性診断」](https://www.slideshare.net/uenosen/web-owasp-day-758-2018-114646917)[はせがわようすけさん「脆弱性診断を通じて見えてくるWebセキュリティ」](https://speakerdeck.com/hasegawayosuke/cui-ruo-xing-zhen-duan-wotong-zitejian-etekuruwebsekiyuritei)
 
 ### 2019
 |日付|ニュース|
