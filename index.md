@@ -39,9 +39,9 @@ Nightと称した勉強会を開催しています。みなさまのご参加を
 * 2017/09/02 OWASP Nagoya Local Chapter Meeting / OWASP Day
 * 2017/09/30 2017 OWASP World Tour Tokyo / Nagoya Satellite
 * 2017/10/16 OWASP Nagoya Chapter ミーティング 第２回
-* 2018/01/01 Update Board Member
 
 ### 2018
+* 2018/01/01 Update Board Member
 * 2018/01/22 OWASP Nagoya Chapter ミーティング 第３回 / オワスプナイト ナゴヤ
 * 2018/04/07 OWASP Nagoya Chapter ミーティング 第４回 / ハンズオン
     * 公開資料：
