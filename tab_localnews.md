@@ -49,3 +49,4 @@ tags: nagoya
 |2019/09/14|OWASP Nagoya Chapter ミーティング 第13回 / OWASP 758 Day|
 |2019/11/15|OWASP Nagoya Chapter ミーティング 第14回|
 
+
