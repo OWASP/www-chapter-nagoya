@@ -36,7 +36,7 @@ tags: nagoya
 | --- | --- |
 | 2019/01 | **株式会社エヌ・ティ・ティ ネオメイト** <br> ローカルチャプターサポーターとなりました。 <br> **ありがとうございます！** |
 | 2019/02/02 | MINI Hardening & OWASP 名古屋 |
-| 2019/02/08 | OWASP Nagoya Chapter ミーティング 第9回 <br> 公開資料： <br> [田中隆博さん「OWASP Top 10(2017) Serverlessでの解釈」](https://www.slideshare.net/TakahiroTanaka/owasp-top-10-serverless) <br> [西村将利さん「OWASP Top 10 2017 AWS WAF テンプレートについて」](https://www.slideshare.net/owaspnagoya/owasp-top10-2017-aws-waf-20190208) <br> [宮城正伸さん「脆弱性と共生するには」](https://www.slideshare.net/owaspnagoya/20190208vulnstudy)|
+| 2019/02/08 | OWASP Nagoya Chapter ミーティング 第9回 <br> 公開資料： <br> 田中隆博 氏 <br>[「OWASP Top 10(2017) Serverlessでの解釈」](https://www.slideshare.net/TakahiroTanaka/owasp-top-10-serverless) <br> 西村将利 氏 <br>[「OWASP Top 10 2017 AWS WAF テンプレートについて」](https://www.slideshare.net/owaspnagoya/owasp-top10-2017-aws-waf-20190208) <br> 宮城正伸さん <br> [「脆弱性と共生するには」](https://www.slideshare.net/owaspnagoya/20190208vulnstudy)|
 | 2019/04/15 | OWASP Nagoya Chapter ミーティング 第10回 / オワスプナイト ナゴヤ |
 | 2019/06/22 | OWASP Nagoya Chapter ミーティング 第11回 / ハンズオン |
 | 2019/08/19 | OWASP Nagoya Chapter ミーティング 第12回 / オワスプナイト ナゴヤ |
