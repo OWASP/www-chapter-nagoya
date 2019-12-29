@@ -1,5 +1,5 @@
 ---
-title: News
+title: LocalNews
 displaytext: Local News
 layout: null
 tab: false
