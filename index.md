@@ -34,29 +34,8 @@ Nightと称した勉強会を開催しています。みなさまのご参加を
 * **2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます**
 
 ## Local News
-### 2017
-* 2017/06/20 OWASP Nagoya Chapter設立
-* 2017/09/02 OWASP Nagoya Local Chapter Meeting / OWASP Day
-* 2017/09/30 2017 OWASP World Tour Tokyo / Nagoya Satellite
-* 2017/10/16 OWASP Nagoya Chapter ミーティング 第２回
-
-### 2018
-* 2018/01/01 Update Board Member
-* 2018/01/22 OWASP Nagoya Chapter ミーティング 第３回 / オワスプナイト ナゴヤ
-* 2018/04/07 OWASP Nagoya Chapter ミーティング 第４回 / ハンズオン
-    * 公開資料：
-        * [WPScanハンズオン](https://www.slideshare.net/owaspnagoya/wpscanwordpress)
-        * [セキュアなWordPressの構築](https://www.slideshare.net/owaspnagoya/owasp-wordpress-wordpress)
-        * [セキュアなWordPressの構築ハンズオン手順書](https://www.slideshare.net/owaspnagoya/owasp-wordpress-wordpress-95391444)
-* 2018/06/01 OWASP Nagoya Chapter ミーティング 第５回
-* 2018/07/23 OWASP Nagoya Chapter ミーティング 第６回 / オワスプナイト ナゴヤ
-    * 公開資料：
-        * [@morihi_socさん「ハニーポットと脆弱性スキャン」](https://speakerdeck.com/morihi_soc/hanipotutotocui-ruo-xing-sukiyan)
-        * [@ookura1978さん「ハニーポットで見えた！？危険なユーザーIDとパスワード」](https://speakerdeck.com/okura/owasupunaitonagoya-number-2-ltzi-liao)
-* 2018/09/15 OWASP Day 758 / 2018 (OWASP Nagoya Chapter ミーティング 第７回）
-    * 公開資料：
-        * [上野宣さん「今夜わかるWebアプリケーション脆弱性診断」](https://www.slideshare.net/uenosen/web-owasp-day-758-2018-114646917)
-        * [はせがわようすけさん「脆弱性診断を通じて見えてくるWebセキュリティ」](https://speakerdeck.com/hasegawayosuke/cui-ruo-xing-zhen-duan-wotong-zitejian-etekuruwebsekiyuritei)
+### 2020
+* 2020/01/27 OWASP Nagoya Chapter ミーティング 第15回 / オワスプナイト ナゴヤ
 
 ### 2019
 * 2019/01 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます！
