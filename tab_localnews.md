@@ -28,7 +28,7 @@ tags: nagoya
 | 2018/06/01 | OWASP Nagoya Chapter ミーティング 第５回 |
 | 2018/07/23 | OWASP Nagoya Chapter ミーティング 第６回 / オワスプナイト ナゴヤ <br> 公開資料： <br> @morihi_socさん<br>[「ハニーポットと脆弱性スキャン」](https://speakerdeck.com/morihi_soc/hanipotutotocui-ruo-xing-sukiyan) <br> @ookura1978さん <br> [「ハニーポットで見えた！？危険なユーザーIDとパスワード」](https://speakerdeck.com/okura/owasupunaitonagoya-number-2-ltzi-liao) |
 | 2018/09/15 | OWASP Day 758 / 2018 (OWASP Nagoya Chapter ミーティング 第７回） |
-| |公開資料： <br> 上野宣 氏 <br> [{今夜わかるWebアプリケーション脆弱性診断」](https://www.slideshare.net/uenosen/web-owasp-day-758-2018-114646917) <br> はせがわようすけさん <br> [「脆弱性診断を通じて見えてくるWebセキュリティ」](https://speakerdeck.com/hasegawayosuke/cui-ruo-xing-zhen-duan-wotong-zitejian-etekuruwebsekiyuritei) |
+| |公開資料： <br> 上野宣 氏 <br> [今夜わかるWebアプリケーション脆弱性診断」](https://www.slideshare.net/uenosen/web-owasp-day-758-2018-114646917) <br> はせがわようすけさん <br> [「脆弱性診断を通じて見えてくるWebセキュリティ」](https://speakerdeck.com/hasegawayosuke/cui-ruo-xing-zhen-duan-wotong-zitejian-etekuruwebsekiyuritei) |
 
 ### 2019
 
