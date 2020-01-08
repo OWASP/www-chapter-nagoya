@@ -3,7 +3,7 @@
 * Takeshi Murai (takeshi.murai at owasp.org)
 * Yukiharu Niwa (yukiharu.niwa at owasp.org)
 
-### Board Member / Core Memger
+### Board Member / Core Member
 * Shigeru Inoue
 * Mayuko Komiyama
 * Hiroki Koishikura
