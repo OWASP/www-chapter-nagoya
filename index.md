@@ -35,7 +35,7 @@ Nightと称した勉強会を開催しています。みなさまのご参加を
 
 * **2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます**
 
-    <img src="assets/images/NTT-Neomeit_Logo.png" alt="NTTNeomeit">
+    [<img src="assets/images/NTT-Neomeit_Logo.png" alt="NTTNeomeit">](http://www.ntt-neo.com)
 
 ## Local News
 ### 2020
