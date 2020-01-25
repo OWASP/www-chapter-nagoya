@@ -8,6 +8,8 @@ region: Asia
 
 # OWASP Nagoya チャプターへようこそ
 
+<img src="assets/images/OWASPNagoyaLogo.jpg" alt="OWASP Nagoya">
+
 OWASP Nagoyaはすべての方に参加できるメーリングリストに用意しております。メーリングリストの登録は
 [こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/nagoya-chapter)からお願いします。
 
@@ -29,9 +31,11 @@ Nightと称した勉強会を開催しています。みなさまのご参加を
    * スピーカーの方はSpeaker Agreement日本語訳をご一読下さい
 
 * 個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin Nowをクリックして下さい。
-    * [Local Chapter Supporter](https://www2.owasp.org/donate)
+    * [Local Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-nagoya&title=OWASP+Nagoya)
 
 * **2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます**
+
+    <img src="assets/images/NTT-Neomeit_Logo.png" alt="NTTNeomeit">
 
 ## Local News
 ### 2020
