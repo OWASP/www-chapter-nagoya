@@ -1,7 +1,7 @@
 ### Leaders
-* Isanori Sakanashi (isanori.sakanashi at owasp.org)
-* Takeshi Murai (takeshi.murai at owasp.org)
-* Yukiharu Niwa (yukiharu.niwa at owasp.org)
+* [Isanori Sakanashi](isanori.sakanashi@owasp.org)
+* [Takeshi Murai](takeshi.murai@owasp.org)
+* [Yukiharu Niwa](yukiharu.niwa@owasp.org)
 
 ### Board Member / Core Member
 * Shigeru Inoue
