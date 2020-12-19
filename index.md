@@ -11,21 +11,24 @@ region: Asia
 <img src="assets/images/OWASPNagoyaLogo.jpg" alt="OWASP Nagoya">
 
 OWASP Nagoyaはすべての方に参加できるメーリングリストに用意しております。メーリングリストの登録は
-[こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/nagoya-chapter)からお願いします。
+[こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/nagoya-chapter)から登録をお願いします。
 
-OWASPの日本のチャプターは以下の通りです。それぞれのメーリングリストなどにご参加ください。
+OWASPの日本のチャプターは以下のサイトで確認できます。<br>
+また、各チャプターのメーリングリストなどにご参加ください。
 * [OWASP Japan Area](https://owasp.org/chapters/#Asia)
 
-## About OWASP / OWASPとは
+## **About OWASP / OWASPとは**
 
 ### The Open Web Application Security Project
 The Open Web Application Security Projectは、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
-ローカルのチャプターは独立して活動しており、Chapter_Leader_Handbook によって案内されます。
+各地域のチャプターは独立して活動しております。
 
-* OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP
-Nightと称した勉強会を開催しています。みなさまのご参加をお待ちしています。
+**OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP Nightと称した勉強会を開催しています。** <br>
 
-## Sponsorship/Membership
+### 皆様のご参加をお待ちしています。
+<br>
+
+## **Sponsorship/Membership**
 
 * OWASPの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらは皆様のメンバーシップとドネーションによって賄われています。Chapter Meetingの会場をお貸しいただける方、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。
    * スピーカーの方はSpeaker Agreement日本語訳をご一読下さい
@@ -37,7 +40,7 @@ Nightと称した勉強会を開催しています。みなさまのご参加を
 
     [<img src="assets/images/NTT-Neomeit_Logo.png" alt="NTTNeomeit">](http://www.ntt-neo.com)
 
-## Local News
+## **Local News**
 
 ### 2021年
 * 2021/01/15 OWASP Nagoya Chapter ミーティング 第18回 / オワスプナイト ナゴヤ(オンライン)
