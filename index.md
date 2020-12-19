@@ -8,8 +8,6 @@ region: Asia
 
 # OWASP Nagoya チャプターへようこそ<br>
 
-Welcome to OWASP Nagoya Chapter.<br>
-
 <img src="assets/images/OWASPNagoyaLogo.jpg" alt="OWASP Nagoya">
 
 OWASP Nagoyaはすべての方に参加できるメーリングリストに用意しております。メーリングリストの登録は
