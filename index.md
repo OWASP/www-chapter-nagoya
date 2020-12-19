@@ -10,16 +10,21 @@ region: Asia
 
 <img src="assets/images/OWASPNagoyaLogo.jpg" alt="OWASP Nagoya">
 
-OWASP Nagoyaはすべての方に参加できるメーリングリストに用意しております。メーリングリストの登録は
-[こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/nagoya-chapter){:target="_blank"}からお願いします。
+OWASP Nagoyaはすべての方に参加できるメーリングリストに用意しております。<br>
+メーリングリストの登録は
+[こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/nagoya-chapter){:target="_blank"}からお願いします。<br>
+<br>
 
-OWASPの日本のチャプターは以下のサイトで確認できます。<br>
-また、各チャプターのメーリングリストなどにぜひとも、ご参加ください。
+OWASPの日本の各チャプターは以下のサイトで確認できます。<br>
 * [OWASP Japan Area](https://owasp.org/chapters/#Asia){:target="_blank"}
+
+ぜひとも、各チャプターのメーリングリストにご参加ください。
+
+<br>
 
 ## **About OWASP / OWASPとは**
 
-### The Open Web Application Security Project
+### [The Open Web Application Security Project]
 *The Open Web Application Security Project*は、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
 各地域のチャプターは独立して活動しております。
 
@@ -45,12 +50,12 @@ OWASPの日本のチャプターは以下のサイトで確認できます。<br
 ### 2021年
 * 2021/01/15 OWASP Nagoya Chapter ミーティング 第18回 / オワスプナイト ナゴヤ(オンライン)
 
-### 2020
+### 2020年
 * 2020/01/27 OWASP Nagoya Chapter ミーティング 第15回 / オワスプナイト ナゴヤ
 * 2020/03/06 OWASP Nagoya Chapter ミーティング 第16回
   * 新型コロナウィルスの状況が日々変化している状態であるため、第１６回のイベントは中止となりました。<br>
 
-### 2019
+### 2019年
 * 2019/01 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます！
 * 2019/02/02 MINI Hardening & OWASP 名古屋
 * 2019/02/08 OWASP Nagoya Chapter ミーティング 第9回
