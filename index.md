@@ -15,7 +15,7 @@ OWASP Nagoyaはすべての方に参加できるメーリングリストに用�
 
 OWASPの日本のチャプターは以下のサイトで確認できます。<br>
 また、各チャプターのメーリングリストなどにご参加ください。
-* [OWASP Japan Area](https://owasp.org/chapters/#Asia)
+* [OWASP Japan Area](https://owasp.org/chapters/#Asia){:target="_blank"}
 
 ## **About OWASP / OWASPとは**
 
