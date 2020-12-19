@@ -11,16 +11,16 @@ region: Asia
 <img src="assets/images/OWASPNagoyaLogo.jpg" alt="OWASP Nagoya">
 
 OWASP Nagoyaはすべての方に参加できるメーリングリストに用意しております。メーリングリストの登録は
-[こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/nagoya-chapter)から登録をお願いします。
+[こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/nagoya-chapter){:target="_blank"}からお願いします。
 
 OWASPの日本のチャプターは以下のサイトで確認できます。<br>
-また、各チャプターのメーリングリストなどにご参加ください。
+また、各チャプターのメーリングリストなどにぜひとも、ご参加ください。
 * [OWASP Japan Area](https://owasp.org/chapters/#Asia){:target="_blank"}
 
 ## **About OWASP / OWASPとは**
 
 ### The Open Web Application Security Project
-The Open Web Application Security Projectは、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
+*The Open Web Application Security Project*は、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
 各地域のチャプターは独立して活動しております。
 
 **OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP Nightと称した勉強会を開催しています。** <br>
@@ -34,11 +34,11 @@ The Open Web Application Security Projectは、Webアプリケーションなど
    * スピーカーの方はSpeaker Agreement日本語訳をご一読下さい
 
 * 個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin Nowをクリックして下さい。
-    * [Local Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-nagoya&title=OWASP+Nagoya)
+    * [Local Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-nagoya&title=OWASP+Nagoya){:target="_blank"}
 
 * **2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます**
 
-    [<img src="assets/images/NTT-Neomeit_Logo.png" alt="NTTNeomeit">](http://www.ntt-neo.com)
+    [<img src="assets/images/NTT-Neomeit_Logo.png" alt="NTTNeomeit">](http://www.ntt-neo.com){:target="_blank"}
 
 ## **Local News**
 
@@ -55,9 +55,9 @@ The Open Web Application Security Projectは、Webアプリケーションなど
 * 2019/02/02 MINI Hardening & OWASP 名古屋
 * 2019/02/08 OWASP Nagoya Chapter ミーティング 第9回
     * 公開資料：
-        * [田中隆博さん「OWASP Top 10(2017) Serverlessでの解釈」](https://www.slideshare.net/TakahiroTanaka/owasp-top-10-serverless)
-        * [西村将利さん「OWASP Top 10 2017 AWS WAF テンプレートについて」](https://www.slideshare.net/owaspnagoya/owasp-top10-2017-aws-waf-20190208)
-        * [宮城正伸さん「脆弱性と共生するには」](https://www.slideshare.net/owaspnagoya/20190208vulnstudy)
+        * [田中隆博さん「OWASP Top 10(2017) Serverlessでの解釈」](https://www.slideshare.net/TakahiroTanaka/owasp-top-10-serverless){:target="_blank"}
+        * [西村将利さん「OWASP Top 10 2017 AWS WAF テンプレートについて」](https://www.slideshare.net/owaspnagoya/owasp-top10-2017-aws-waf-20190208){:target="_blank"}
+        * [宮城正伸さん「脆弱性と共生するには」](https://www.slideshare.net/owaspnagoya/20190208vulnstudy){:target="_blank"}
 * 2019/04/15 OWASP Nagoya Chapter ミーティング 第10回 / オワスプナイト ナゴヤ
 * 2019/06/22 OWASP Nagoya Chapter ミーティング 第11回 / ハンズオン
 * 2019/08/19 OWASP Nagoya Chapter ミーティング 第12回 / オワスプナイト ナゴヤ
