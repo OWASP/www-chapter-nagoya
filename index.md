@@ -6,7 +6,9 @@ level: 0
 region: Asia
 ---
 
-# OWASP Nagoya チャプターへようこそ
+# OWASP Nagoya チャプターへようこそ<br>
+
+Welcome to OWASP Nagoya Chapter.<br>
 
 <img src="assets/images/OWASPNagoyaLogo.jpg" alt="OWASP Nagoya">
 
