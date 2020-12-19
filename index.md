@@ -38,6 +38,10 @@ Nightと称した勉強会を開催しています。みなさまのご参加を
     [<img src="assets/images/NTT-Neomeit_Logo.png" alt="NTTNeomeit">](http://www.ntt-neo.com)
 
 ## Local News
+
+### 20211年
+* 2021/01/15 OWASP Nagoya Chapter ミーティング 第18回 / オワスプナイト ナゴヤ(オンライン) 
+
 ### 2020
 * 2020/01/27 OWASP Nagoya Chapter ミーティング 第15回 / オワスプナイト ナゴヤ
 * 2020/03/06 OWASP Nagoya Chapter ミーティング 第16回 
