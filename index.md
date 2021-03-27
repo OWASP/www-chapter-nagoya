@@ -45,6 +45,31 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 
     [<img src="assets/images/NTT-Neomeit_Logo.png" alt="NTTNeomeit">](http://www.ntt-neo.com){:target="_blank"}
 
+<br><hr><br>
+
+## **Recent Events** 
+* 2021/02/17 OWASP Nagoya Chapter ミーティング 第20回
+    * OWASP Sendai/Fukuoka/Okinawa とのリレー開催です。
+        * 開催日： 4月14日（水）19:00-19:45
+
+            | 時間 | イベント内容 |
+            | --- | --- |
+            | 18:30 | OWASP Sendai |
+            | 19:00 | **OWASP Nagoya** |
+            | 19:45 | OWASP Fukuoka |
+            | 20:30 | OWASP Okinawa |
+        <br>
+
+        * OWASP Nagoya
+        
+            1. クルマ業界におけるサイバーセキュリティの悩み(OWASP758クルマ分科会)
+            2. 様々なTop10プロジェクトの紹介(loner49th )
+            
+        * 申し込みはConnpassから参加申込をお願いします。
+
+
+<br><hr><br>
+
 ## **Local News**
 
 ### 2021年
