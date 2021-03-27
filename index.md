@@ -48,6 +48,12 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 ## **Local News**
 
 ### 2021年
+* 2021/02/17 OWASP Nagoya Cpahter ミーティング 第19回 / Online
+    * OWASP Sendai/Fukuokaとのリレー開催です。
+        * OWASP Nagoya Chapter（2月17日（水）21:00-）
+            1. OWASP Nagoya Chapter活動紹介
+            2. OWASP SecureFlag紹介
+
 * 2021/01/15 OWASP Nagoya Chapter ミーティング 第18回 / オワスプナイト ナゴヤ(オンライン)
  <br>
 
