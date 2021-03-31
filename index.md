@@ -48,7 +48,7 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 <br>
 
 ## **Recent Events** 
-* 2021/02/17 OWASP Nagoya Chapter ミーティング 第20回
+* 2021/04/14 OWASP Nagoya Chapter ミーティング 第20回
     * OWASP Sendai/Fukuoka/Okinawa とのリレー開催です。
         * 開催日： 4月14日（水）19:00-19:45
 
@@ -62,7 +62,8 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
             1. クルマ業界におけるサイバーセキュリティの悩み(OWASP758クルマ分科会)
             2. 様々なTop10プロジェクトの紹介(loner49th )
 
-        * 申し込みはConnpassから参加申込をお願いします。
+        * 申し込みはConnpassから参加申込をお願いします。<br>
+        [Connpassの申し込みページへ](https://owaspnagoya.connpass.com/event/207131/){:target="_blank"}
 
 <br>
 
