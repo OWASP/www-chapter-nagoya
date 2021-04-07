@@ -52,10 +52,10 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
     * OWASP Sendai/Fukuoka/Okinawa とのリレー開催です。
         * 開催日： 4月14日（水）19:00-19:45
 
-            * 18:30  OWASP Sendai 
-            * 19:00  **OWASP Nagoya**
-            * 19:45  OWASP Fukuoka 
-            * 20:30  OWASP Okinawa 
+            * 18:30  [OWASP Sendai](https://owaspsendai.connpass.com/event/205896/){:target="_blank"}
+            * 19:00  [**OWASP Nagoya**](https://owaspnagoya.connpass.com/event/207131/){:target="_blank"}
+            * 19:45  [OWASP Fukuoka](https://owasp-kyushu.connpass.com/event/205625/){:target="_blank"}
+            * 20:30  [OWASP Okinawa](https://owasp-okinawa.connpass.com/event/205983/){:target="_blank"}
 
         * OWASP Nagoya
         
@@ -64,6 +64,9 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 
         * 申し込みはConnpassから参加申込をお願いします。<br>
         [Connpassの申し込みページへ](https://owaspnagoya.connpass.com/event/207131/){:target="_blank"}
+        <br>
+        <br>
+        **上記の名古屋以外のチャプターへの申込みも可能です。ぜひ登録してみてください**
 
 <br>
 
