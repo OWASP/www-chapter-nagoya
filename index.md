@@ -4,6 +4,7 @@ title: OWASP Nagoya
 tags: nagoya
 level: 0
 region: Asia
+meetup-group: owasp-nagoya
 ---
 
 # OWASP Nagoya チャプターへようこそ<br>
