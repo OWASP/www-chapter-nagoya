@@ -53,10 +53,11 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
     * OWASP Sendai/Fukuoka/Okinawa とのリレー開催です。
         * 開催日： 4月14日（水）19:00-19:45
 
-            * 18:30  [OWASP Sendai](https://owasp.org/www-chapter-sendai/){:target="_blank"}-[[申込み]](https://owaspsendai.connpass.com/event/205896/){:target="_blank"}
-            * 19:00  [**OWASP Nagoya**](https://owasp.org/www-chapter-nagoya/){:target="_blank"}-[[申込み]](https://owaspnagoya.connpass.com/event/207131/){:target="_blank"}
-            * 19:45  [OWASP Fukuoka](https://owasp.org/www-chapter-fukuoka/){:target="_blank"}-[[申込み]](https://owasp-kyushu.connpass.com/event/205625/){:target="_blank"}
-            * 20:30  [OWASP Okinawa](https://owasp.org/www-chapter-okinawa/){:target="_blank"}-[[申込み]](https://owasp-okinawa.connpass.com/event/205983/){:target="_blank"}
+            * 18:30  [OWASP Sendai](https://owasp.org/www-chapter-sendai/){:target="_blank"}-[[申込み]](https://owaspsendai.connpass.com/event/205896/){:target="_blank"}-[https://www.meetup.com/owasp-sendai-meetup-group/](https://www.meetup.com/owasp-sendai-meetup-group/){:target="_blank"}
+            * 19:45  [OWASP Fukuoka](https://owasp.org/
+            * 19:00  [**OWASP Nagoya**](https://owasp.org/www-chapter-nagoya/){:target="_blank"}-[[申込み]](https://owaspnagoya.connpass.com/event/207131/){:target="_blank"}-[https://www.meetup.com/owasp-nagoya-meetup-group/](https://www.meetup.com/owasp-nagoya-meetup-group/){:target="_blank"}
+            * 19:45  [OWASP Fukuoka](https://owasp.org/www-chapter-fukuoka/){:target="_blank"}-[[申込み]](https://owasp-kyushu.connpass.com/event/205625/){:target="_blank"}-[https://www.meetup.com/owasp-fukuoka/](https://www.meetup.com/owasp-fukuoka/){:target="_blank"}
+            * 20:30  [OWASP Okinawa](https://owasp.org/www-chapter-okinawa/){:target="_blank"}-[[申込み]](https://owasp-okinawa.connpass.com/event/205983/){:target="_blank"}-[https://www.meetup.com/owasp-okinawa-chapter/](https://www.meetup.com/owasp-okinawa-chapter/){:target="_blank"}
 
         * OWASP Nagoya
         
