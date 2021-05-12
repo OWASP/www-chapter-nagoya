@@ -64,7 +64,7 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 
             * 18:30  OWASP Senda
             * 19:45  OWASP Fukuoka
-            * 19:00  **OWASP Nagoya**]
+            * 19:00  **OWASP Nagoya**
             * 19:45  OWASP Fukuoka
             * 20:30  OWASP Okinawa
 
