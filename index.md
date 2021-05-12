@@ -34,7 +34,7 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 ### 皆様のご参加をお待ちしています。
 <br>
 
-## **Sponsorship/Membership**
+## **[ Sponsorship/Membership ]**
 
 * OWASPの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらは皆様のメンバーシップとドネーションによって賄われています。Chapter Meetingの会場をお貸しいただける方、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。
    * スピーカーの方はSpeaker Agreement日本語訳をご一読下さい
@@ -48,44 +48,32 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 
 <br>
 
-## **Recent Events** 
+## **[ Recent Events ]** 
+* 2021/06  OWASP Nagoya Chapter ミーティング 第21回 / オワスプナイト ナゴヤ(オンライン)
+    * 現在計画中
+
+<br>
+
+## **[ Local News ]**
+
+### 2021年
+
 * 2021/04/14 OWASP Nagoya Chapter ミーティング 第20回
     * OWASP Sendai/Fukuoka/Okinawa とのリレー開催です。
         * 開催日： 4月14日（水）19:00-19:45
 
-            * 18:30  [OWASP Sendai](https://owasp.org/www-chapter-sendai/){:target="_blank"}
-            -[[申込み]](https://owaspsendai.connpass.com/event/205896/){:target="_blank"}
-            -[https://www.meetup.com/owasp-sendai-meetup-group/](https://www.meetup.com/owasp-sendai-meetup-group/){:target="_blank"}
-            * 19:45  [OWASP Fukuoka](https://owasp.org/www-chapter-fukuoka/){:target="_blank"}
-            -[[申込み]](https://owasp-kyushu.connpass.com/event/205625/){:target="_blank"}
-            -[https://www.meetup.com/owasp-fukuoka-meetup-group/](https://www.meetup.com/owasp-fukuoka-meetup-group/){:target="_blank"}
-            * 19:00  [**OWASP Nagoya**](https://owasp.org/www-chapter-nagoya/){:target="_blank"}
-            -[[申込み]](https://owaspnagoya.connpass.com/event/207131/){:target="_blank"}
-            -[https://www.meetup.com/owasp-nagoya-meetup-group/](https://www.meetup.com/owasp-nagoya-meetup-group/){:target="_blank"}
-            * 19:45  [OWASP Fukuoka](https://owasp.org/www-chapter-fukuoka/){:target="_blank"}
-            -[[申込み]](https://owasp-kyushu.connpass.com/event/205625/){:target="_blank"}
-            -[https://www.meetup.com/owasp-fukuoka/](https://www.meetup.com/owasp-fukuoka/){:target="_blank"}
-            * 20:30  [OWASP Okinawa](https://owasp.org/www-chapter-okinawa/){:target="_blank"}-[[申込み]](https://owasp-okinawa.connpass.com/event/205983/){:target="_blank"}-[https://www.meetup.com/owasp-okinawa-chapter/](https://www.meetup.com/owasp-okinawa-chapter/){:target="_blank"}
+            * 18:30  OWASP Senda
+            * 19:45  OWASP Fukuoka
+            * 19:00  **OWASP Nagoya**]
+            * 19:45  OWASP Fukuoka
+            * 20:30  OWASP Okinawa
 
         * OWASP Nagoya
         
             1. クルマ業界におけるサイバーセキュリティの悩み(OWASP758クルマ分科会)
             2. 様々なTop10プロジェクトの紹介(loner49th )
-
-        * 申し込みはConnpassから参加申込をお願いします。<br>
-        [Connpassの申し込みページへ](https://owaspnagoya.connpass.com/event/207131/){:target="_blank"}
         <br>
-        <br>
-        **上記の名古屋以外のチャプターへの申込みも可能です。ぜひ登録してみてください**
 
-{% include chapter_events.html group=page.meetup-group %}
-<script type='text/javascript'> $(function(){ $(".timeclass").hover(function() { utc_str = $(this).text(); ndx = utc_str.indexOf(':'); st_hour_str = utc_str.substring(0, ndx); st_min_str = utc_str.substring(ndx + 1, ndx + 3); utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(st_hour_str), parseInt(st_min_str), 0); start_dt = utc_dt.setZone(luxon.DateTime.local().zoneName); ndx = utc_str.lastIndexOf(':'); end_hour_str = utc_str.substring(ndx - 2, ndx - 1); end_min_str = utc_str.substring(ndx + 1, ndx + 3); utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(end_hour_str), parseInt(end_min_str), 0); end_dt = utc_dt.setZone(luxon.DateTime.local().zoneName); popstr = start_dt.toLocaleString(luxon.DateTime.TIME_WITH_SECONDS) + ' to ' + end_dt.toLocaleString(luxon.DateTime.TIME_WITH_SHORT_OFFSET); $(this).prop('title', popstr); }); }); </script> 
-
-<br>
-
-## **Local News**
-
-### 2021年
 * 2021/02/17 OWASP Nagoya Cpahter ミーティング 第19回 / Online
     * OWASP Sendai/Fukuokaとのリレー開催です。
         * OWASP Nagoya Chapter（2月17日（水）21:00-）
