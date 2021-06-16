@@ -29,7 +29,7 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 *The Open Web Application Security Project*は、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
 各地域のチャプターは独立して活動しております。
 
-## OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP Nightと称した勉強会を開催しています。
+* **OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP Nightと称した勉強会を開催しています。**
 
 ## 皆様のご参加をお待ちしています。
 
