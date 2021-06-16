@@ -4,37 +4,36 @@ title: OWASP Nagoya
 tags: nagoya
 level: 0
 region: Asia
-meetup-group: owasp-nagoya-meetup-group
+
+
 ---
 
-# OWASP Nagoya チャプターへようこそ<br>
+## OWASP Nagoya チャプターへようこそ
 
 <img src="assets/images/OWASPNagoyaLogo.jpg" alt="OWASP Nagoya">
 
-OWASP Nagoyaはすべての方に参加できるメーリングリストに用意しております。<br>
+OWASP Nagoyaはすべての方に参加できるメーリングリストに用意しております。
 メーリングリストの登録は
-[こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/nagoya-chapter){:target="_blank"}からお願いします。<br>
-<br>
+[こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/nagoya-chapter){:target="_blank"}からお願いします。
 
-OWASPの日本の各チャプターは以下のサイトで確認できます。<br>
-* [OWASP Japan Area](https://owasp.org/chapters/#Asia){:target="_blank"}
+
+OWASPの日本の各チャプターは以下のサイトで確認できます。
+* [OWASP Japan Area](https://owasp.org/chapters/#Asia)
 
 ぜひとも、各チャプターのメーリングリストにご参加ください。
 
-<br>
 
-## **About OWASP / OWASPとは**
+### About OWASP / OWASPとは
 
-### [The Open Web Application Security Project]
+## The Open Web Application Security Project
 *The Open Web Application Security Project*は、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
 各地域のチャプターは独立して活動しております。
 
-**OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP Nightと称した勉強会を開催しています。** <br>
+## OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP Nightと称した勉強会を開催しています。
 
-### 皆様のご参加をお待ちしています。
-<br>
+## 皆様のご参加をお待ちしています。
 
-## **[ Sponsorship/Membership ]**
+### Sponsorship/Membership
 
 * OWASPの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらは皆様のメンバーシップとドネーションによって賄われています。Chapter Meetingの会場をお貸しいただける方、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。
    * スピーカーの方はSpeaker Agreement日本語訳をご一読下さい
@@ -42,16 +41,15 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 * 個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin Nowをクリックして下さい。
     * [Local Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-nagoya&title=OWASP+Nagoya){:target="_blank"}
 
-* **2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます**
+*  **2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます**
 
     [<img src="assets/images/NTT-Neomeit_Logo.png" alt="NTTNeomeit">](http://www.ntt-neo.com){:target="_blank"}
 
-<br>
-
-## **[ Recent Events ]** 
+### Recent Events 
 * 2021/06  OWASP Nagoya Chapter ミーティング 第21回 / オワスプナイト ナゴヤ(オンライン)
     * 開催日：6月18日(金)　19:00〜21:00
-
+    * 申込みはこちらから 
+    [connpass](https://owaspnagoya.connpass.com/event/212386/)
     * タイムテーブル
 
     | 時間 | 内容 | 発表者 |
@@ -65,16 +63,10 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
     | 20:25 - 20:45 | OWASP ISVS を使って IoT エコシステムのセキュリティについて考えてみよう | OWASP Nagoya 加藤 |
     | 20:45 - 20:50 | LT：自動車プライバシーの中国規制案 | OWASP758クルマ分科会 |
     | 20:50 - 21:00 | 今後の活動について | OWASP Nagoya  |
-    | 21:00 | 解散 | |
+    | 21:00 | 解散 | |  
 
-    <br>    
 
-    * 申込みはこちらから 
-    [connpass](https://owaspnagoya.connpass.com/event/212386/){:target="_black"}
-
-<br>
-
-## **[ Local News ]**
+## Local News
 
 ### 2021年
 
@@ -92,7 +84,7 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
         
             1. クルマ業界におけるサイバーセキュリティの悩み(OWASP758クルマ分科会)
             2. 様々なTop10プロジェクトの紹介(loner49th )
-        <br>
+ 
 
 * 2021/02/17 OWASP Nagoya Cpahter ミーティング 第19回 / Online
     * OWASP Sendai/Fukuokaとのリレー開催です。
@@ -101,7 +93,7 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
             2. OWASP SecureFlag紹介
 
 * 2021/01/15 OWASP Nagoya Chapter ミーティング 第18回 / オワスプナイト ナゴヤ(オンライン)
- <br>
+
 
 ### 2020年
 * 2020/01/27 OWASP Nagoya Chapter ミーティング 第15回 / オワスプナイト ナゴヤ
