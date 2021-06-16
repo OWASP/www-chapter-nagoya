@@ -39,11 +39,11 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
    * スピーカーの方はSpeaker Agreement日本語訳をご一読下さい
 
 * 個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin Nowをクリックして下さい。
-    * [Local Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-nagoya&title=OWASP+Nagoya){:target="_blank"}
+    * [Local Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-nagoya&title=OWASP+Nagoya)
 
 *  **2019年1月 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます**
 
-    [<img src="assets/images/NTT-Neomeit_Logo.png" alt="NTTNeomeit">](http://www.ntt-neo.com){:target="_blank"}
+    [<img src="assets/images/NTT-Neomeit_Logo.png" alt="NTTNeomeit">](http://www.ntt-neo.com)
 
 ### Recent Events 
 * 2021/06  OWASP Nagoya Chapter ミーティング 第21回 / オワスプナイト ナゴヤ(オンライン)
