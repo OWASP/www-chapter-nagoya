@@ -7,8 +7,11 @@ region: Asia
 
 
 ---
+<hr>
 
 ## OWASP Nagoya チャプターへようこそ
+
+<hr>
 
 <img src="assets/images/OWASPNagoyaLogo.jpg" alt="OWASP Nagoya">
 
@@ -31,7 +34,7 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 
 * **OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP Nightと称した勉強会を開催しています。**
 
-## 皆様のご参加をお待ちしています。
+    ## 皆様のご参加をお待ちしています。
 
 ### Sponsorship/Membership
 
@@ -42,14 +45,31 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
     * [Local Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-nagoya&title=OWASP+Nagoya)
 
 ### Recent Events 
+* 2021/09 
+    * OWASP Nagoya Chapter ミーティング 第22回 / OWASP 758 Day
 
+<br>
+<hr>
 
 ## Local News
-
+<hr>
 ### 2021年
 
 * 2021/06  OWASP Nagoya Chapter ミーティング 第21回 / オワスプナイト ナゴヤ(オンライン)
     * 開催日：6月18日(金)　19:00〜21:00
+    * Speeker
+        * 株式会社NDIAS 上松亮介 氏
+            * 自動車の脆弱性ってどんなもの？
+        * 株式会社ラック 北川智也 氏
+            * 自動運転、高度運転支援を踏まえてクルマのセキュリティを再度考える
+        * 株式会社ヴィッツ 杉山歩 氏
+            * 比べてみよう！IT機器とクルマのサイバーセキュリティ
+        * OWASP Nagoya 加藤
+            * OWASP ISVS を使って IoT エコシステムのセキュリティについて考えてみよう 	
+        * OWASP758クルマ分科会
+            * LT：自動車プライバシーの中国規制案 	
+        
+<br>
 
 * 2021/04/14 OWASP Nagoya Chapter ミーティング 第20回
     * OWASP Sendai/Fukuoka/Okinawa とのリレー開催です。
@@ -66,12 +86,15 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
             1. クルマ業界におけるサイバーセキュリティの悩み(OWASP758クルマ分科会)
             2. 様々なTop10プロジェクトの紹介(loner49th )
  
+<br>
 
 * 2021/02/17 OWASP Nagoya Cpahter ミーティング 第19回 / Online
     * OWASP Sendai/Fukuokaとのリレー開催です。
         * OWASP Nagoya Chapter（2月17日（水）21:00-）
             1. OWASP Nagoya Chapter活動紹介
             2. OWASP SecureFlag紹介
+
+<br>
 
 * 2021/01/15 OWASP Nagoya Chapter ミーティング 第18回 / オワスプナイト ナゴヤ(オンライン)
 
