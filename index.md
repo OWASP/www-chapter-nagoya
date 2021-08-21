@@ -59,7 +59,7 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
     
     * 会場：オンライン <br>
     * 募集ページ：下記よりお申し込みください。<br>
-        https://owaspnagoya.connpass.com/event/220187/
+        [https://owaspnagoya.connpass.com/event/220187/](https://owaspnagoya.connpass.com/event/220187/)
 
         ※ ZoomミーティングのURLはイベント開催数前日に参加者向けにお知らせします。
 <br>
