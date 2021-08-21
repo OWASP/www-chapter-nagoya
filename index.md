@@ -34,7 +34,7 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 
 * **OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP Nightと称した勉強会を開催しています。**
 
-    ## 皆様のご参加をお待ちしています。
+    **皆様のご参加をお待ちしています。** 
 
 ### Sponsorship/Membership
 
