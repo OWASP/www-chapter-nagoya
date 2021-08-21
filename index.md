@@ -45,10 +45,27 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
     * [Local Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-nagoya&title=OWASP+Nagoya)
 
 ### Recent Events 
-* 2021/09 
-    * OWASP Nagoya Chapter ミーティング 第22回 / OWASP 758 Day
-
 <br>
+
+### OWASP Nagoya Chapter の年1回の大イベントを開催
+<br>
+
+* OWASP Nagoya Chapter ミーティング 第22回 / OWASP 758 Day 2021
+    * 開催日：2021/09/04(土) 13:30 〜 17:00
+
+            今年は **「セキュリティ人材育成　～開発者の目指す道しるべ～」**
+        をテーマに講演いただきます。
+        * [NEC](https://jpn.nec.com/) サイバーセキュリティ戦略本部長 淵上 真一氏
+        * [岡崎女子大学](https://www.okazaki.ac.jp/) 子ども教育学部 講師の花田 経子氏
+    
+    * 会場：オンライン 
+        募集ページ：下記よりお申し込みください。
+        https://owaspnagoya.connpass.com/event/220187/
+
+        ※ ZoomミーティングのURLはイベント開催数前日に参加者向けにお知らせします。
+<br>
+<br>
+
 <hr>
 
 ## Local News
