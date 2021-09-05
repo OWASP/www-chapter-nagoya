@@ -57,10 +57,6 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
         * [岡崎女子大学](https://www.okazaki.ac.jp/) 子ども教育学部 講師の花田 経子氏
     
     * 会場：オンライン <br>
-    * 募集ページ：下記よりお申し込みください。<br>
-        [https://owaspnagoya.connpass.com/event/220187/](https://owaspnagoya.connpass.com/event/220187/)
-
-        ※ ZoomミーティングのURLはイベント開催数前日に参加者向けにお知らせします。
 <br>
 <br>
 
