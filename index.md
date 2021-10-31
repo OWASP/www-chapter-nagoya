@@ -52,8 +52,8 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
     * 開催日：11月19日(金)　19:00〜21:00
     * [OWASP WebGoat](https://owasp.org/www-project-webgoat/)を用いた**オンラインもくもく会**的なハンズオンを行います。
     *  今回は、初めてのオンラインハンズオンのため、少数での開催とさせていただきます。
-    * 申し込みは[connpass](https://owaspnagoya.connpass.com/event/226059/)から登録してください。
-        https://owaspnagoya.connpass.com/event/226059/
+    * 申し込みは[connpass](https://owaspnagoya.connpass.com/event/226059/)から登録してください。<br>
+        [https://owaspnagoya.connpass.com/event/226059/](https://owaspnagoya.connpass.com/event/226059/)
 
 
 <hr>
