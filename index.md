@@ -44,23 +44,35 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 * 個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin Nowをクリックして下さい。
     * [Local Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-nagoya&title=OWASP+Nagoya)
 
-### Recent Events 
+<br>
+<hr>
+
+## Recent Events 
+<hr>
 <br>
 
-* 2021/11  OWASP Nagoya Chapter ミーティング 第23回 / ハンズオン
+* 2021/11  OWASP Nagoya Chapter ミーティング 第24回 / ハンズオン
 
-    * 開催日：11月19日(金)　19:00〜21:00
+    * 開催日：01月19日(金)　19:00〜21:00
     * [OWASP WebGoat](https://owasp.org/www-project-webgoat/)を用いた**オンラインもくもく会**的なハンズオンを行います。
-    *  今回は、初めてのオンラインハンズオンのため、少数での開催とさせていただきます。
-    * 申し込みは[connpass](https://owaspnagoya.connpass.com/event/226059/)から登録してください。<br>
-        [https://owaspnagoya.connpass.com/event/226059/](https://owaspnagoya.connpass.com/event/226059/)
+    * 申し込みは[connpass](https://owaspnagoya.connpass.com/event/231890/から登録してください。<br>
+        [https://owaspnagoya.connpass.com/event/231890/](https://owaspnagoya.connpass.com/event/231890/)
 
-
+<br>
+<br>
 <hr>
 
 ## Local News
 <hr>
 ### 2021年
+
+* 2021/11  OWASP Nagoya Chapter ミーティング 第24回 / ハンズオン
+
+    * 開催日：11月19日(金)　19:00〜21:00
+    * [OWASP WebGoat](https://owasp.org/www-project-webgoat/)を用いた**オンラインもくもく会**的なハンズオンを行います。
+    *  今回は、初めてのオンラインハンズオンのため、少数での開催とさせていただきます。
+
+<br>
 
 * 2021/09 OWASP Nagoya Chapter ミーティング 第22回 / OWASP 758 Day 2021
     * 開催日：2021/09/04(土) 13:30 〜 17:00<br>
