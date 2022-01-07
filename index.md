@@ -51,10 +51,10 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 <hr>
 <br>
 
-* 2021/11  OWASP Nagoya Chapter ミーティング 第24回 / ハンズオン
+* 2022/01  OWASP Nagoya Chapter ミーティング 第24回 / ハンズオン
 
     * 開催日：01月19日(金)　19:00〜21:00
-    * [OWASP WebGoat](https://owasp.org/www-project-webgoat/)を用いた**オンラインもくもく会**的なハンズオンを行います。
+    * [OWASP WebGoat](https://owasp.org/www-project-webgoat/)を用いた**オンラインもくもく会**的なハンズオン#2を行います。
     * 申し込みは[connpass](https://owaspnagoya.connpass.com/event/231890/から登録してください。<br>
         [https://owaspnagoya.connpass.com/event/231890/](https://owaspnagoya.connpass.com/event/231890/)
 
