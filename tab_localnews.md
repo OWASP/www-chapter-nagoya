@@ -9,7 +9,7 @@ tags: nagoya
 
 ## Local News
 
-### 2017
+### 2017年
 
 | 日付 | ニュース |
 | --- | --- |
@@ -19,7 +19,7 @@ tags: nagoya
 | 2017/10/16 | OWASP Nagoya Chapter ミーティング 第２回 |
 | 2018/01/01 | Update Board Member |
 
-### 2018
+### 2018年
 
 | 日付 | ニュース |
 | --- | --- |
@@ -30,7 +30,7 @@ tags: nagoya
 | 2018/09/15 | OWASP Day 758 / 2018 (OWASP Nagoya Chapter ミーティング 第７回） |
 | |公開資料： <br> 上野宣 氏 <br> [今夜わかるWebアプリケーション脆弱性診断」](https://www.slideshare.net/uenosen/web-owasp-day-758-2018-114646917){:target="_blank"} <br> はせがわようすけさん <br> [「脆弱性診断を通じて見えてくるWebセキュリティ」](https://speakerdeck.com/hasegawayosuke/cui-ruo-xing-zhen-duan-wotong-zitejian-etekuruwebsekiyuritei){:target="_blank"} |
 
-### 2019
+### 2019年
 
 | 日付 | ニュース |
 | --- | --- |
@@ -43,8 +43,9 @@ tags: nagoya
 | 2019/09/14 | OWASP Nagoya Chapter ミーティング 第13回 / OWASP 758 Day |
 | 2019/11/15 | OWASP Nagoya Chapter ミーティング 第14回 |
 
-### 2020
+### 2020年
 
 | 日付 | ニュース |
 | --- | --- |
 | 2020/01/27 | OWASP Nagoya Chapter ミーティング 第15回 / オワスプナイト ナゴヤ |
+| 2020/03/06 | OWASP Nagoya Chapter ミーティング 第16回　(中止) |
