@@ -51,19 +51,31 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 <hr>
 <br>
 
-* 2022/04  OWASP Nagoya Chapter ミーティング 第25回
+* 2022/06  OWASP Nagoya Chapter ミーティング 第26回 / オワスプナイト
 
-    * 開催日：04月17日(金)　19:00〜21:00
-    * 2021年の公開された新しいOWASP Top 10の概要と、一部を一緒に学びましょう。
-    * 申し込みは[connpass](https://connpass.com/event/236346/)から登録してください。<br>
-        [https://connpass.com/event/236346/](https://connpass.com/event/236346/)
+    * 開催日：06月24日(金)　19:00〜21:00
+    * 1年振りのオワスプナイトナゴヤ。今回もオンラインで開催します。
+    * 申し込みは[connpass](https://owaspnagoya.connpass.com/event/249124)から登録してください。<br>
+        [https://owaspnagoya.connpass.com/event/249124](https://owaspnagoya.connpass.com/event/249124)
+    * 申し込みは 2022/06/10 09:00 から開始します。
     * 会場：オンライン<br>
-<br>
+
 <br>
 <hr>
 
 ## Local News
 <hr>
+<br>
+
+### 2022年
+* 2022/04  OWASP Nagoya Chapter ミーティング 第25回
+
+    * 開催日：04月17日(金)　19:00〜21:00
+    * 2021年の公開された新しいOWASP Top 10の概要と、一部を一緒に学びましょう。
+    * 会場：オンライン<br>
+
+<br>
+
 ### 2021年
 
 * 2021/11  OWASP Nagoya Chapter ミーティング 第24回 / ハンズオン
@@ -126,22 +138,3 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 
 * 2021/01/15 OWASP Nagoya Chapter ミーティング 第18回 / オワスプナイト ナゴヤ(オンライン)
 
-
-### 2020年
-* 2020/01/27 OWASP Nagoya Chapter ミーティング 第15回 / オワスプナイト ナゴヤ
-* 2020/03/06 OWASP Nagoya Chapter ミーティング 第16回
-  * 新型コロナウィルスの状況が日々変化している状態であるため、第１６回のイベントは中止となりました。<br>
-
-### 2019年
-* 2019/01 株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます！
-* 2019/02/02 MINI Hardening & OWASP 名古屋
-* 2019/02/08 OWASP Nagoya Chapter ミーティング 第9回
-    * 公開資料：
-        * [田中隆博さん「OWASP Top 10(2017) Serverlessでの解釈」](https://www.slideshare.net/TakahiroTanaka/owasp-top-10-serverless){:target="_blank"}
-        * [西村将利さん「OWASP Top 10 2017 AWS WAF テンプレートについて」](https://www.slideshare.net/owaspnagoya/owasp-top10-2017-aws-waf-20190208){:target="_blank"}
-        * [宮城正伸さん「脆弱性と共生するには」](https://www.slideshare.net/owaspnagoya/20190208vulnstudy){:target="_blank"}
-* 2019/04/15 OWASP Nagoya Chapter ミーティング 第10回 / オワスプナイト ナゴヤ
-* 2019/06/22 OWASP Nagoya Chapter ミーティング 第11回 / ハンズオン
-* 2019/08/19 OWASP Nagoya Chapter ミーティング 第12回 / オワスプナイト ナゴヤ
-* 2019/09/14 OWASP Nagoya Chapter ミーティング 第13回 / OWASP 758 Day
-* 2019/11/15 OWASP Nagoya Chapter ミーティング 第14回
