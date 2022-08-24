@@ -51,6 +51,21 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 <hr>
 <br>
 
+* 2022/09  OWASP Nagoya Chapterミーティング第27回 / OWASP 758 Day
+
+    * 開催日：09月10日(土)　13:30〜17:00
+    * OWASP Nagoya Chapter の年1回の大イベントを開催
+    * 今年は「セキュリティ訓練　～ Red&Blueの視点で ～」をテーマに、 株式会社FFRIセキュリティ 中西克彦氏と WEST-SEC実行委員会 谷口 貴之氏に講演いただきます。
+
+    * 会場：オンライン開催<br>
+
+<br>
+<hr>
+
+## Local News
+<hr>
+
+### 2022年
 * 2022/06  OWASP Nagoya Chapter ミーティング 第26回 / オワスプナイト
 
     * 開催日：06月24日(金)　19:00〜21:00
@@ -59,23 +74,6 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
         [https://owaspnagoya.connpass.com/event/249124](https://owaspnagoya.connpass.com/event/249124)
     * 申し込みは 2022/06/10 09:00 から開始します。
     * 会場：オンライン<br>
-
-<br>
-<hr>
-
-## Local News
-<hr>
-<br>
-
-### 2022年
-
-* 2022/09  OWASP Nagoya Chapterミーティング第27回 / OWASP 758 Day
-
-    * 開催日：09月10日(土)　13:30〜17:00
-    * OWASP Nagoya Chapter の年1回の大イベントを開催
-    * 今年は「セキュリティ訓練　～ Red&Blueの視点で ～」をテーマに、 株式会社FFRIセキュリティ 中西克彦氏と WEST-SEC実行委員会 谷口 貴之氏に講演いただきます。
-
-    * 会場：オンライン開催<br>
 <br>
 
 * 2022/04  OWASP Nagoya Chapter ミーティング 第26回 / オワスプナイト
