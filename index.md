@@ -51,13 +51,18 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 <hr>
 <br>
 
-* 2022/09  OWASP Nagoya Chapterミーティング第27回 / OWASP 758 Day
+* 2022/12  OWASP Nagoya Chapterミーティング第28回 / ハンズオン
 
-    * 開催日：09月10日(土)　13:30〜17:00
-    * OWASP Nagoya Chapter の年1回の大イベントを開催
-    * 今年は「セキュリティ訓練　～ Red&Blueの視点で ～」をテーマに、 株式会社FFRIセキュリティ 中西克彦氏と WEST-SEC実行委員会 谷口 貴之氏に講演いただきます。
+    * 開催日：12月16日(金)　19:30〜21:00
+    * OWASP Juice Shopを用いたオンラインハンズオンを行います。
+        * OWASP Juice Shop (公式サイトより)
+        * OWASP Juice Shop は、おそらく最も現代的で洗練された安全でないウェブアプリケーションです。
+        * セキュリティトレーニン*グ、意識向上デモ、CTF、そして、セキュリティツールの実験台として使用することができます。
+        * Juice Shopには、OWASP トップ 10 全体の脆弱性と、実際のアプリケーションで見つかった他の多くのセキュリティ上の欠陥が含まれています。
 
-    * 会場：オンライン開催<br>
+    * 会場：オンライン開催
+    * 申し込み：申し込みは[connpass](https://owaspnagoya.connpass.com/event/265385/)から登録してください。<br>
+        [https://owaspnagoya.connpass.com/event/265385/](https://owaspnagoya.connpass.com/event/265385/)<br>
 
 <br>
 <hr>
@@ -66,13 +71,18 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 <hr>
 
 ### 2022年
+* 2022/09  OWASP Nagoya Chapterミーティング第27回 / OWASP 758 Day
+
+    * 開催日：09月10日(土)　13:30〜17:00
+    * OWASP Nagoya Chapter の年1回の大イベントを開催
+    * 今年は「セキュリティ訓練　～ Red&Blueの視点で ～」をテーマに、 株式会社FFRIセキュリティ 中西克彦氏と WEST-SEC実行委員会 谷口 貴之氏に講演いただきます。
+
+    * 会場：オンライン開催<br>
+
 * 2022/06  OWASP Nagoya Chapter ミーティング 第26回 / オワスプナイト
 
     * 開催日：06月24日(金)　19:00〜21:00
     * 1年振りのオワスプナイトナゴヤ。今回もオンラインで開催します。
-    * 申し込みは[connpass](https://owaspnagoya.connpass.com/event/249124)から登録してください。<br>
-        [https://owaspnagoya.connpass.com/event/249124](https://owaspnagoya.connpass.com/event/249124)
-    * 申し込みは 2022/06/10 09:00 から開始します。
     * 会場：オンライン<br>
 <br>
 
