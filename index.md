@@ -13,8 +13,6 @@ region: Asia
 
 <hr>
 
-<img src="assets/images/OWASPNagoyaLogo.jpg" alt="OWASP Nagoya">
-
 OWASP Nagoyaはすべての方に参加できるメーリングリストに用意しております。
 メーリングリストの登録は
 [こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/nagoya-chapter){:target="_blank"}からお願いします。
