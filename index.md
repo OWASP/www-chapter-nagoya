@@ -58,9 +58,6 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
         * セキュリティトレーニン*グ、意識向上デモ、CTF、そして、セキュリティツールの実験台として使用することができます。
         * Juice Shopには、OWASP トップ 10 全体の脆弱性と、実際のアプリケーションで見つかった他の多くのセキュリティ上の欠陥が含まれています。
 
-    * 会場：オンライン開催
-    * 申し込み：申し込みは[connpass](https://owaspnagoya.connpass.com/event/265385/)から登録してください。<br>
-        [https://owaspnagoya.connpass.com/event/265385/](https://owaspnagoya.connpass.com/event/265385/)<br>
 
 <br>
 <hr>
