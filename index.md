@@ -49,32 +49,12 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 <hr>
 <br>
 
-* 2023/05  OWASP Nagoya Chapterミーティング第30回 / オワスプナイト ナゴヤ
-    * 開催日：05月15日(月)　19:30〜21:00
-    * 2020年1月以来の、3年ぶりの現地開催です！
-      * 加者の皆さんで楽しく飲んで食べてセキュリティを語って！熱いOWASPの夜を過ごしましょう！
-      * スキル、役職、業種、国籍、性別、年齢関係なく、アプリケーションセキュリティに興味のある方はどなたでもお気軽にご参加ください。
-    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/280624/)から
-      <br>URL:https://owaspnagoya.connpass.com/event/280624/
-      
-
-<br>
-
-* 2023/02  OWASP Nagoya Chapterミーティング第29回
-    * 開催日：02月17日(金)　19:30〜21:30
-    * オンライン開催です。
-      * ご自宅等でのんびり、お菓子/お酒と共に参加いただけます。新しいTop 10がどうなったのかを一緒に学びましょう。      
-
-<br>
-
-* 2022/12  OWASP Nagoya Chapterミーティング第28回 / ハンズオン
-
-    * 開催日：12月16日(金)　19:30〜21:00
-    * OWASP Juice Shopを用いたオンラインハンズオンを行います。
-        * OWASP Juice Shop (公式サイトより)
-        * OWASP Juice Shop は、おそらく最も現代的で洗練された安全でないウェブアプリケーションです。
-        * セキュリティトレーニング、意識向上デモ、CTF、そして、セキュリティツールの実験台として使用することができます。
-        * Juice Shopには、OWASP トップ 10 全体の脆弱性と、実際のアプリケーションで見つかった他の多くのセキュリティ上の欠陥が含まれています。
+### OWASP Nagoya Chapterミーティング第31回 / ハンズオン
+* 開催日：07月22日(土)　14:00〜17:00
+* 現地開催で久しぶりのハンズオンを実施  
+  [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/){:target="_blank"}  と [BadTodo](https://github.com/ockeghem/badtodo){:target="_blank"} を用いて、Webセキュリティ診断のハンズオンを行います。
+* 詳細・申し込みは[connpass](https://owaspnagoya.connpass.com/event/280624/)から
+  <br>URL:https://owaspnagoya.connpass.com/event/280624/
 
 
 <br>
