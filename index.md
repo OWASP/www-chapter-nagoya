@@ -53,8 +53,8 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 * 開催日：07月22日(土)　14:00〜17:00
 * 現地開催で久しぶりのハンズオンを実施  
   [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/){:target="_blank"}  と [BadTodo](https://github.com/ockeghem/badtodo){:target="_blank"} を用いて、Webセキュリティ診断のハンズオンを行います。
-* 詳細・申し込みは[connpass](https://owaspnagoya.connpass.com/event/280624/)から
-  <br>URL:https://owaspnagoya.connpass.com/event/280624/
+* 詳細・申し込みはOWASP Nagoyaのconnpassを参照ください。
+  <br>URL:[https://owaspnagoya.connpass.com/event/288684/](https://owaspnagoya.connpass.com/event/288684/)
 
 
 <br>
