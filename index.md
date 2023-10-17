@@ -49,12 +49,12 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 <hr>
 <br>
 
-### OWASP Nagoya Chapterミーティング第31回 / ハンズオン
-* 開催日：07月22日(土)　14:00〜17:00
-* 現地開催で久しぶりのハンズオンを実施  
-  [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/){:target="_blank"}  と [BadTodo](https://github.com/ockeghem/badtodo){:target="_blank"} を用いて、Webセキュリティ診断のハンズオンを行います。
+### OWASP Nagoya Chapter ミーティング 第32回 / オワスプナイト ナゴヤ
+* 開催日：10月23日(月)　19:30〜21:00
+* 毎度おなじみのギークバーでようやく涼しくなった名古屋の夜を飲んで食べて語って過ごしましょう！  
+
 * 詳細・申し込みはOWASP Nagoyaのconnpassを参照ください。
-  <br>URL:[https://owaspnagoya.connpass.com/event/288684/](https://owaspnagoya.connpass.com/event/288684/)
+  <br>URL:[https://owaspnagoya.connpass.com/event/297753/](https://owaspnagoya.connpass.com/event/297753/)
 
 
 <br>
