@@ -9,6 +9,14 @@ tags: nagoya
 
 ## Local News
 
+### 2023年
+
+| 日付 | ニュース |
+| --- | --- |
+| 2023/02/17 | OWASP Nagoya Chapterミーティング第29回 |
+| 2023/05/15 | OWASP Nagoya Chapter ミーティング 第30回 / オワスプナイト ナゴヤ |
+| 2023/07/22 | OWASP Nagoya Chapterミーティング第31回 / ハンズオン |
+| 2023/10/23 | OWASP Nagoya Chapter ミーティング 第32回 / オワスプナイト ナゴヤ |
 
 ### 2022年
 
