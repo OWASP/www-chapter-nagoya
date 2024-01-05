@@ -49,12 +49,15 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 <hr>
 <br>
 
-### OWASP Nagoya Chapter ミーティング 第32回 / オワスプナイト ナゴヤ
-* 開催日：10月23日(月)　19:30〜21:00
-* 毎度おなじみのギークバーでようやく涼しくなった名古屋の夜を飲んで食べて語って過ごしましょう！  
+* 2024/02/10(土)  OWASP Nagoya Chapterミーティング第33回 / OWASP 758 Day 2024
 
-* 詳細・申し込みはOWASP Nagoyaのconnpassを参照ください。
-  <br>URL:[https://owaspnagoya.connpass.com/event/297753/](https://owaspnagoya.connpass.com/event/297753/)
+    * 開催日：02月10日(土)　13:30〜17:00
+    * 今年は「未知の情報セキュリティ脅威に備えるために」をテーマに、 フィッシングハンターのにゃん☆たく氏と フューチャーの井上氏に講演いただきます。
+    * 現地会場のみの開催のため、オンラインでの配信は予定しておりません。
+    * スキル、役職、業種、国籍、性別、年齢関係なく、アプリケーションセキュリティに興味のある方はどなたでもお気軽にご参加ください。
+    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/305686/)から
+      <br>URL:https://owaspnagoya.connpass.com/event/305686/
+    
 
 
 <br>
