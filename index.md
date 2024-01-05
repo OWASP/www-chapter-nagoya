@@ -57,7 +57,7 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
     * スキル、役職、業種、国籍、性別、年齢関係なく、アプリケーションセキュリティに興味のある方はどなたでもお気軽にご参加ください。
     * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/305686/)から
       <br>URL:https://owaspnagoya.connpass.com/event/305686/
-      
+    
 
 
 <br>
