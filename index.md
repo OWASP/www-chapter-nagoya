@@ -3,10 +3,10 @@ layout: col-sidebar
 title: OWASP Nagoya
 tags: nagoya
 level: 0
+country: Japan
 region: Asia
-
-
 ---
+
 <hr>
 
 ## OWASP Nagoya チャプターへようこそ
