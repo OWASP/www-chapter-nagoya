@@ -9,14 +9,24 @@ tags: nagoya
 
 ## Local News
 
+### 2024年
+
+| 日付 | ニュース |
+| --- | --- |
+| 2023/10/28 | [OWASP Nagoya Chapter ミーティング第36回 / オワスプナイト ナゴヤ](https://owaspnagoya.connpass.com/event/328682/){:target="_blank"} |
+| 2023/08/23 | [OWASP Nagoya Chapterミーティング第35回](https://owaspnagoya.connpass.com/event/325008/){:target="_blank"} |
+| 2023/06/08 | [OWASP Nagoya Chapterミーティング第34回](https://owaspnagoya.connpass.com/event/311287/){:target="_blank"} |
+| 2024/02/10 | [OWASP Nagoya Chapterミーティング第33回 / OWASP 758 Day 2024](https://owaspnagoya.connpass.com/event/305686/){:target="_blank"} |
+
+
 ### 2023年
 
 | 日付 | ニュース |
 | --- | --- |
-| 2023/02/17 | OWASP Nagoya Chapterミーティング第29回 |
-| 2023/05/15 | OWASP Nagoya Chapter ミーティング 第30回 / オワスプナイト ナゴヤ |
-| 2023/07/22 | OWASP Nagoya Chapterミーティング第31回 / ハンズオン |
-| 2023/10/23 | OWASP Nagoya Chapter ミーティング 第32回 / オワスプナイト ナゴヤ |
+| 2023/10/23 | [OWASP Nagoya Chapter ミーティング 第32回 / オワスプナイト ナゴヤ](https://owaspnagoya.connpass.com/event/297753/){:target="_blank"} |
+| 2023/07/22 | [OWASP Nagoya Chapterミーティング第31回 / ハンズオン](https://owaspnagoya.connpass.com/event/288684/){:target="_blank"} |
+| 2023/05/15 | [OWASP Nagoya Chapter ミーティング 第30回 / オワスプナイト ナゴヤ](https://owaspnagoya.connpass.com/event/280624/){:target="_blank"} |
+| 2023/02/17 | [OWASP Nagoya Chapterミーティング第29回](https://owaspnagoya.connpass.com/event/273342/){:target="_blank"} |
 
 ### 2022年
 

@@ -26,12 +26,10 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 
 ### About OWASP / OWASPとは
 
-## The Open Worldwide Application Security Project
-*The Open Worldwide Application Security Project*は、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
+OWASP - The Open Worldwide Application Security Project は、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
 各地域のチャプターは独立して活動しております。
 
-* **OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP Nightと称した勉強会を開催しています。**
-
+* **OWASP Nagoyaでは定期的にLocal Chapter Meeting / OWASP Nightと称した勉強会を開催しています。**  
     **皆様のご参加をお待ちしています。** 
 
 ### Sponsorship/Membership
@@ -46,51 +44,16 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 <hr>
 
 ## Recent Events 
+
 <hr>
-<br>
 
- * 2024/08/23(金)  OWASP Nagoya Chapterミーティング第35回
+ * 2025/01/24(金)  OWASP Nagoya Chapterミーティング第37回
 
-    * 開催日：08月23日(金)　19:30〜21:00
-    * 「OWASP TOP 10 2021」 の勉強会です。今回の勉強会では、Insecure DesignとSecurity Misconfigurationに対して、セキュリティの知識を深めます。
-        * 開発現場でOWASP TOP10を活用したい方はきっと参考になるかと思います。ぜひご参加ください。
-        * 講義中心で行いますので、PCは必須ではありません。開発現場でOWASPの各種プロジェクトを活用したいかたはきっと参考になるかと思います。
-        * ぜひご参加ください。
-    
+    * 開催日：01月24日(金)　19:30〜21:00
+    * OWASPのプロジェクトの中からTOP10シリーズのプロジェクトについて、ライトニングトークで、紹介したいと思います。
     * 会場
         * 名古屋市 市民活動推進センター ナディアパーク デザインセンタービル6階 集会室
             * 地下鉄「栄」駅　7、8番出口より徒歩7分
-            * 地下鉄「矢場町」駅　5、6番出口より徒歩5分
-        * 開催ビル棟の1FにOWASPストラップを付けたスタッフがいます。場所や教室までの行き方に関しては、スタッフにお申し出ください。    
-    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/325008/)から
-      <br>URL:https://owaspnagoya.connpass.com/event/325008/
-
-<br>
-<hr>
-<br>
-* 2024/06/08(土)  OWASP Nagoya Chapterミーティング第34回
-
-    * 開催日：06月08日(土)　13:00〜17:00
-    * 「OWASP Projectをフル活用した開発者向けセキュア開発トレーニング」 を題材に、神戸デジタル・ラボ の松田さんに講演いただきます。
-        * 講義中心で行いますので、PCは必須ではありません。開発現場でOWASPの各種プロジェクトを活用したいかたはきっと参考になるかと思います。
-        * ぜひご参加ください。
-    
-    * 会場
-        * 株式会社中電シーティーアイ（CTIイノベーションLab（ラボ））NHK名古屋放送センタービル 20F
-            * 地下鉄「栄」駅下車、徒歩約5分。
-        * 開催ビル棟の1FにOWASPストラップを付けたスタッフがいます。場所や教室までの行き方に関しては、スタッフにお申し出ください。    
-    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/311287/)から
-      <br>URL:https://owaspnagoya.connpass.com/event/311287/
-
-
-<br>
-<hr>
-
-* 2024/02/10(土)  OWASP Nagoya Chapterミーティング第33回 / OWASP 758 Day 2024
-
-    * 開催日：02月10日(土)　13:30〜17:00
-    * 今年は「未知の情報セキュリティ脅威に備えるために」をテーマに、 フィッシングハンターのにゃん☆たく氏と フューチャーの井上氏に講演いただきます。
-    * 現地会場のみの開催のため、オンラインでの配信は予定しておりません。
-    * スキル、役職、業種、国籍、性別、年齢関係なく、アプリケーションセキュリティに興味のある方はどなたでもお気軽にご参加ください。
-    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/305686/)から
-      <br>URL:https://owaspnagoya.connpass.com/event/305686/
+            * 地下鉄「矢場町」駅　5、6番出口より徒歩5分 
+    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/341317/)から
+      <br>URL:https://owaspnagoya.connpass.com/event/341317/
