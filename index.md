@@ -47,13 +47,14 @@ OWASP - The Open Worldwide Application Security Project は、Webアプリケー
 
 <hr>
 
- * 2025/01/24(金)  OWASP Nagoya Chapterミーティング第37回
+ * 2025/03/08(土)  OWASP Nagoya Chapterミーティング第38回
 
-    * 開催日：01月24日(金)　19:30〜21:00
-    * OWASPのプロジェクトの中からTOP10シリーズのプロジェクトについて、ライトニングトークで、紹介したいと思います。
+    * 開催日：03月08日(土)　13:15〜17:30
+    * [OWASP Sendai](https://owasp.org/www-chapter-sendai/){:target="_blank"}とのコラボ の勉強会です。  
+      脅威モデリング実習ワークショップをおこないます。
     * 会場
-        * 名古屋市 市民活動推進センター ナディアパーク デザインセンタービル6階 集会室
-            * 地下鉄「栄」駅　7、8番出口より徒歩7分
-            * 地下鉄「矢場町」駅　5、6番出口より徒歩5分 
-    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/341317/)から
-      <br>URL:https://owaspnagoya.connpass.com/event/341317/
+        * [CTIイノベーションLab Collaboration Lounge HatCh](https://www.cti.co.jp/innovation/lab/){:target="_blank"}  
+        NHK名古屋放送センタービル20F
+            * 地下鉄東山線、名城線「栄」駅下車、オアシス経由徒歩5分
+    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/345087/)から
+      <br>URL:https://owaspnagoya.connpass.com/event/345087/

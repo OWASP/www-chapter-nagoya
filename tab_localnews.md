@@ -9,6 +9,12 @@ tags: nagoya
 
 ## Local News
 
+### 2025年
+
+| 日付 | ニュース |
+| --- | --- |
+| 2024/02/10 | [OWASP Nagoya Chapter ミーティング 第37回](https://owaspnagoya.connpass.com/event/341317/){:target="_blank"} |
+
 ### 2024年
 
 | 日付 | ニュース |
