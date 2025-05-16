@@ -23,7 +23,6 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 
 ぜひとも、各チャプターのメーリングリストにご参加ください。
 
-
 ### About OWASP / OWASPとは
 
 OWASP - The Open Worldwide Application Security Project は、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
