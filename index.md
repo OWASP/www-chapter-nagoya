@@ -23,7 +23,6 @@ OWASPの日本の各チャプターは以下のサイトで確認できます。
 
 ぜひとも、各チャプターのメーリングリストにご参加ください。
 
-
 ### About OWASP / OWASPとは
 
 OWASP - The Open Worldwide Application Security Project は、Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。
@@ -44,17 +43,18 @@ OWASP - The Open Worldwide Application Security Project は、Webアプリケー
 <hr>
 
 ## Recent Events 
-
 <hr>
 
- * 2025/03/08(土)  OWASP Nagoya Chapterミーティング第38回
+ * 2025/06/07(土)  OWASP Nagoya Chapterミーティング第39回
 
-    * 開催日：03月08日(土)　13:15〜17:30
-    * [OWASP Sendai](https://owasp.org/www-chapter-sendai/){:target="_blank"}とのコラボ の勉強会です。  
-      脅威モデリング実習ワークショップをおこないます。
+    * 開催日：06月07日(土)　13:30〜17:15
+    * 情報処理安全確保支援士会（JP-RISSA）とのコラボのイベントです。今回は、OWASP Nagoyaと情報処理安全確保支援士会が、それぞれの特色を活かした企画を持ち寄ります。
+    * OWASP Naogyaからは、OWASPが発行するドキュメントやツールに絡めた脆弱性勉強会を予定しています。
+    * 情報処理安全確保支援士会からは、IPAが提供するボードゲームを用いて、各テーブル（4，5名グループ想定）でインシデント発生時におけるCSIRTの活動の流れを体験します。
+  
     * 会場
-        * [CTIイノベーションLab Collaboration Lounge HatCh](https://www.cti.co.jp/innovation/lab/){:target="_blank"}  
-        NHK名古屋放送センタービル20F
-            * 地下鉄東山線、名城線「栄」駅下車、オアシス経由徒歩5分
-    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/345087/)から
-      <br>URL:https://owaspnagoya.connpass.com/event/345087/
+        * [名古屋市民活動推進センター](https://www.n-vnpo.city.nagoya.jp/){:target="_blank"}  
+        ナディアパーク デザインセンタービル6階
+            * 地下鉄東山線、名城線「栄」駅下車、ナディアパーク経由徒歩10分
+    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/352935/)から
+      <br>URL:https://owaspnagoya.connpass.com/event/352935/
