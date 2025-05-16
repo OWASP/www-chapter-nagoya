@@ -43,7 +43,6 @@ OWASP - The Open Worldwide Application Security Project は、Webアプリケー
 <hr>
 
 ## Recent Events 
-
 <hr>
 
  * 2025/06/07(土)  OWASP Nagoya Chapterミーティング第39回
