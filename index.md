@@ -44,7 +44,22 @@ OWASP - The Open Worldwide Application Security Project は、Webアプリケー
 
 ## Recent Events 
 <hr>
+ * 2025/11/22(土)  OWASP Nagoya Chapterミーティング第41回 / OWASP 758 Day
 
+    * 開催日：06月07日(土)　13:30 〜 16:30
+    * OWASP Nagoya Chapter の年1回の大イベントを開催
+    * 今年は「セキュリティインシデントに備えるチームのつくり方と動かし方」をテーマに、
+    * SCSKセキュリティ　エバンジェリストの武井さんと、東邦ガス情報システムの山本さんに講演いただきます。
+    * ※ 現地会場のみの開催のため、オンラインでの配信は予定しておりません。
+  
+    * 会場
+        * [名古屋市民活動推進センター](https://www.n-vnpo.city.nagoya.jp/){:target="_blank"}  
+        ナディアパーク デザインセンタービル6階
+            * 地下鉄東山線、名城線「栄」駅下車、ナディアパーク経由徒歩10分
+    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/369757/)から
+      <br>URL:https://owaspnagoya.connpass.com/event/369757/
+
+<hr>
  * 2025/06/07(土)  OWASP Nagoya Chapterミーティング第39回
 
     * 開催日：06月07日(土)　13:30〜17:15
