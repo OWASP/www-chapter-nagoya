@@ -43,33 +43,18 @@ OWASP - The Open Worldwide Application Security Project は、Webアプリケー
 <hr>
 
 ## Recent Events 
-<hr>
- * 2025/11/22(土)  OWASP Nagoya Chapterミーティング第41回 / OWASP 758 Day
 
-    * 開催日：06月07日(土)　13:30 〜 16:30
-    * OWASP Nagoya Chapter の年1回の大イベントを開催
-    * 今年は「セキュリティインシデントに備えるチームのつくり方と動かし方」をテーマに、
-    * SCSKセキュリティ　エバンジェリストの武井さんと、東邦ガス情報システムの山本さんに講演いただきます。
-    * ※ 現地会場のみの開催のため、オンラインでの配信は予定しておりません。
+<br>
+
+* 2026/02/13(金)  OWASP Nagoya Chapter ミーティング 第42回
+
+    * 開催日：2026年02月13日(金)　19:30 〜 21:00
+    * 今回は、OWASP Top 10:2025について、全体概要と個別リスクについて学びたいと思います。 OWASPのプロジェクトは、草の根活動で、さまざまな活動が進んでおり、気軽に情報を共有しましょう。 スキル、役職、業種、国籍、性別、年齢関係なく、アプリケーションセキュリティに興味のある方はどなたでもお気軽にご参加ください。
   
     * 会場
         * [名古屋市民活動推進センター](https://www.n-vnpo.city.nagoya.jp/){:target="_blank"}  
         ナディアパーク デザインセンタービル6階
             * 地下鉄東山線、名城線「栄」駅下車、ナディアパーク経由徒歩10分
-    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/369757/)から
-      <br>URL:https://owaspnagoya.connpass.com/event/369757/
+   * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/378596)から
+      <br>URL:https://owaspnagoya.connpass.com/event/378596
 
-<hr>
- * 2025/06/07(土)  OWASP Nagoya Chapterミーティング第39回
-
-    * 開催日：06月07日(土)　13:30〜17:15
-    * 情報処理安全確保支援士会（JP-RISSA）とのコラボのイベントです。今回は、OWASP Nagoyaと情報処理安全確保支援士会が、それぞれの特色を活かした企画を持ち寄ります。
-    * OWASP Naogyaからは、OWASPが発行するドキュメントやツールに絡めた脆弱性勉強会を予定しています。
-    * 情報処理安全確保支援士会からは、IPAが提供するボードゲームを用いて、各テーブル（4，5名グループ想定）でインシデント発生時におけるCSIRTの活動の流れを体験します。
-  
-    * 会場
-        * [名古屋市民活動推進センター](https://www.n-vnpo.city.nagoya.jp/){:target="_blank"}  
-        ナディアパーク デザインセンタービル6階
-            * 地下鉄東山線、名城線「栄」駅下車、ナディアパーク経由徒歩10分
-    * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/352935/)から
-      <br>URL:https://owaspnagoya.connpass.com/event/352935/
