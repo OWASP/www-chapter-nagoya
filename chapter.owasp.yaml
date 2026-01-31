@@ -1,0 +1,30 @@
+community:
+  - name: chapter-nagoya
+    platform: slack
+    url: https://owasp.slack.com/archives/CD0CPTDCH
+leaders:
+  - name: Isanori Sakanashi
+    email: isanori.sakanashi@owasp.org
+    github: isanori-sakanashi-owasp
+  - name: Takeshi Murai
+    email: takeshi.murai@owasp.org
+    github: takeshi-murai
+  - name: Yukiharu Niwa
+    email: yukiharu.niwa@owasp.org
+location:
+  country: Japan
+  country_code: JP
+  region: Aichi Prefecture
+  city: Nagoya
+  latitude: 35.1851045
+  longitude: 136.8998438
+name: OWASP Nagoya
+repositories:
+  - name: www-chapter-nagoya
+    url: https://github.com/OWASP/www-chapter-nagoya
+    description: OWASP Foundation Web Repository
+tags:
+  - nagoya
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-nagoya
