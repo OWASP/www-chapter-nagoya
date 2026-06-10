@@ -46,15 +46,16 @@ OWASP - The Open Worldwide Application Security Project は、Webアプリケー
 
 <br>
 
-* 2026/02/13(金)  OWASP Nagoya Chapter ミーティング 第42回
+* 2026/06/15(月)  OWASP Nagoya Chapter ミーティング 第43回 / オワスプナイト
 
-    * 開催日：2026年02月13日(金)　19:30 〜 21:00
-    * 今回は、OWASP Top 10:2025について、全体概要と個別リスクについて学びたいと思います。 OWASPのプロジェクトは、草の根活動で、さまざまな活動が進んでおり、気軽に情報を共有しましょう。 スキル、役職、業種、国籍、性別、年齢関係なく、アプリケーションセキュリティに興味のある方はどなたでもお気軽にご参加ください。
+    * 開催日：2026年06月15日(月)　19:30 〜 21:00
+    * 毎度おなじみのギークバーで名古屋の夜を飲んで、食べて、語って、過ごしましょう！
+スキル、役職、業種、国籍、性別、年齢関係なく、アプリケーションセキュリティに興味のある方はどなたでもお気軽にご参加ください。
   
     * 会場
-        * [名古屋市民活動推進センター](https://www.n-vnpo.city.nagoya.jp/){:target="_blank"}  
-        ナディアパーク デザインセンタービル6階
-            * 地下鉄東山線、名城線「栄」駅下車、ナディアパーク経由徒歩10分
-   * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/378596)から
-      <br>URL:https://owaspnagoya.connpass.com/event/378596
+        * [名古屋ギークバー/Club Adriana](https://www.geekbar.nagoya/){:target="_blank"}  
+        名古屋市中区葵1-27-37シティハイツ1F
+            * 地下鉄東山線「新栄町」駅2番出口を出て、錦通を東(千種方向)へ。「葵町」の信号を渡って1つ目の角を右折。最初の交差点を過ぎてすぐ左側1階です。
+   * 申し込みは[こちら](https://owaspnagoya.connpass.com/event/394848/)から
+      <br>URL:https://owaspnagoya.connpass.com/event/394848/
 
